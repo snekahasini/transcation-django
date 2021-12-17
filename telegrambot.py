@@ -16,7 +16,7 @@ def handle_message(update , context):
          
 
 
-    update.message.reply_text(f"Hi, trnscation complete")
+    update.message.reply_text(f"Hi, transcation complete")
     
 
 if __name__ == '__main__':
